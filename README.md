@@ -1,34 +1,33 @@
-<h1 align="center">Hi 👋, I'm Keshav Mallawat</h1>
-<h3 align="center">Full-Stack Developer | CSE Student | Building with React, Next.js & Node.js</h3>
+# Hi, I'm Keshav Mallawat
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavmallawat&label=Profile%20views&color=0e75b6&style=flat" alt="keshavmallawat" /> </p>
+**Full-stack engineer who builds AI features into real products.** Final-year B.Tech Computer Engineering at K.J. Somaiya College of Engineering, Mumbai (graduating 2027).
 
-- 🔭 I’m currently working on [Stravex Technologies](https://www.stravextechnologies.com/)
+I build web products end to end, and I use LLMs where they help and deterministic code where correctness matters.
 
-- 🌱 I’m currently learning **Advanced Next.js, TypeScript, System Design, AI Agents & Backend Engineering**
+## Featured
 
-- 👯 I’m looking to collaborate on **Open Source Full-Stack & AI Projects**
+- **OneHealth AI** (capstone): a patient health-record platform. It reads a medical report (PDF text layer or Tesseract OCR), extracts lab values with deterministic rules, checks them against documented reference ranges, and uses an LLM only to phrase the summary, with a rule-based fallback. spaCy + medspaCy handle negation in clinical text. React, Node/Express, Prisma/PostgreSQL, FastAPI. Consent-based clinician sharing, audit log, 137 end-to-end test assertions. *Repo is private for now; happy to walk through it.*
+- **[Stravex Technologies](https://github.com/keshavmallawat/Stravex_Technologies)**: the live company site at [stravextechnologies.com](https://www.stravextechnologies.com/). React, TypeScript, Firebase, deployed through GitHub Actions to GitHub Pages.
+- **[Stravex CMS](https://github.com/keshavmallawat/stravex-technologies)**: Next.js 16 rebuild with a Prisma-backed admin CMS, Auth.js Google sign-in with an email allowlist, and Cloudinary media.
+- **[Candidate Interview System](https://github.com/keshavmallawat/Candidate_Interview_System)**: MERN + Gemini API, AI-generated interview questions and automated evaluation. Team project with one other person; the work was split roughly half and half, though most commits came from my teammate's side, so the history under-represents my share.
+- **[Team ETA website](https://github.com/keshavmallawat/team_eta)**: Next.js 15 site for our Shell Eco-marathon team.
 
-- 🤝 I’m looking for help with **Scalable System Design & Backend Architecture**
+## Client work (private repos)
 
-- 👨‍💻 All of my projects are available at [https://github.com/keshavmallawat](https://github.com/keshavmallawat)
+- A lead-generation site for a printing and printer-rental business: Astro + Tailwind, Lighthouse 100 on all four categories on mobile.
+- A static Next.js site for an industrial engineering distributor, with enquiries routed through WhatsApp.
+- An agri-export company site with a Firebase-backed admin panel.
 
-- 💬 Ask me about **React, Next.js, TypeScript, Node.js, Tailwind CSS, Firebase and Full-Stack Development**
+Details and references on request.
 
-- 📫 How to reach me **mallawatkeshav@gmail.com**
+## Stack I use day to day
 
-- ⚡ Fun fact **I enjoy building real-world products and autonomous systems more than tutorial projects.**
+React · Next.js · TypeScript · Tailwind · Astro · Node/Express · Prisma · PostgreSQL · MongoDB · Firebase · Python (FastAPI, Flask) · Tesseract OCR · spaCy
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/keshav-mallawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshav-mallawat" height="30" width="40" /></a>
-</p>
+## Also
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Autonomous Systems lead at Team ETA, a student team building a supermileage vehicle for Shell Eco-marathon.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keshavmallawat&show_icons=true&locale=en&layout=compact" alt="keshavmallawat" /></p>
+## Reach me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshavmallawat&show_icons=true&locale=en" alt="keshavmallawat" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keshavmallawat&" alt="keshavmallawat" /></p>
+[LinkedIn](https://linkedin.com/in/keshav-mallawat) · mallawatkeshav@gmail.com

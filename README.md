@@ -7,8 +7,8 @@ I build web products end to end, and I use LLMs where they help and deterministi
 ## Featured
 
 - **[OneHealth AI](https://github.com/keshavmallawat/OneHealth-AI)** (capstone): a patient health-record platform. It reads a medical report (PDF text layer or Tesseract OCR), extracts lab values with deterministic rules, checks them against documented reference ranges, and uses an LLM only to phrase the summary, with a rule-based fallback. spaCy + medspaCy handle negation in clinical text. React, Node/Express, Prisma/PostgreSQL, FastAPI. Consent-based clinician sharing, audit log, 137 end-to-end test assertions.
-- **[Stravex Technologies](https://github.com/keshavmallawat/Stravex_Technologies)**: the React, TypeScript and Firebase version of the company website for [Stravex Technologies](https://www.stravextechnologies.com/), with an admin dashboard for news, careers and enquiries.
-- **[Stravex CMS](https://github.com/keshavmallawat/stravex-technologies)**: Next.js 16 rebuild with a Prisma-backed admin CMS, Auth.js Google sign-in with an email allowlist, and Cloudinary media.
+- **[Stravex Technologies v2](https://github.com/keshavmallawat/stravex-technologies-v2)**: Next.js 16 rebuild of the company website with a Prisma-backed admin CMS, Auth.js Google sign-in with an email allowlist, and Cloudinary media.
+- **[Stravex Technologies v1](https://github.com/keshavmallawat/stravex-technologies-v1)**: the original React, TypeScript and Firebase version of the company website for [Stravex Technologies](https://www.stravextechnologies.com/), with an admin dashboard for news, careers and enquiries.
 - **[Candidate Interview System](https://github.com/keshavmallawat/Candidate_Interview_System)**: MERN + Gemini API, AI-generated interview questions and automated evaluation. Team project with one other person; the work was split roughly half and half, though most commits came from my teammate's side, so the history under-represents my share.
 - **[Team ETA website](https://github.com/keshavmallawat/team_eta)**: Next.js 15 site for our Shell Eco-marathon team.
 
